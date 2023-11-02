@@ -4,6 +4,8 @@
 
 Welcome to the Minecraft 2D game! This game allows you to create a simple 2D world using only one block type. You can place and remove blocks to build your own structures and explore the virtual environment.
 
+![Preview](prev.jpg)
+
 ## Installation
 
 To play the Minecraft 2D game, you need to follow these steps to set up the environment:
